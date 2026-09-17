@@ -47,6 +47,19 @@ print(32 % 3) # Prints 2 because 32 / 3 is 10 with a remainder of 2
  
 
  
+# Initials RM
+print(
+"""
+RRRR   M   M
+R   R  MM MM
+R   R  MM MM
+RRRR   M M M
+R R    M   M
+R  R   M   M
+R   R  M   M
+"""
+)
 
 
-
+likes_snakes = input("Do you like snakes? ")
+print("You said: " + likes_snakes) # Print the user's input to the console
