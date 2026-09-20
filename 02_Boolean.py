@@ -34,3 +34,11 @@ print(not a)    # The opposite of a
 # False
 # True
 # False
+
+#You can also set a variable equal to a Boolean expression:
+bool_one = 5 != 7 
+bool_two = 1 + 1 != 2
+bool_three = 3 * 3 == 9
+
+print(f"bool_one: {bool_one}, bool_two: {bool_two}, bool_three: {bool_three}")
+
