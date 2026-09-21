@@ -42,3 +42,11 @@ bool_three = 3 * 3 == 9
 
 print(f"bool_one: {bool_one}, bool_two: {bool_two}, bool_three: {bool_three}")
 
+
+is_raining = True
+
+if is_raining:
+  print("bring an umbrella")
+
+if 2 == 4 - 2: 
+  print("apple")
