@@ -50,3 +50,35 @@ if is_raining:
 
 if 2 == 4 - 2: 
   print("apple")
+
+
+# Relational operators are used to compare values. The result of a comparison is a Boolean value: True or False.
+x = 20
+y = 20
+
+if( x == y):
+  print("These numbers are the same."
+)
+
+# AND
+statement_one = 2 + 2 + 2 >= 6 and -1 * -1 < 0
+statement_two = (4 * 2 <= 8) and (7 - 1 == 6)
+
+
+credits = 120
+gpa = 3.4
+
+if (credits >= 120 and gpa >= 2.0):
+  print("You meet the requirements to graduate!")
+
+# OR
+
+statement_one = (2 - 1 > 3) or (-5 * 2 == -10)
+statement_two = (9 + 5 <= 15) or (7 != 4 + 3)
+
+credits = 118
+gpa = 2.0
+
+if(credits >= 120 or gpa >= 2.0):
+  print("You have met at least one of the requirements."
+)
