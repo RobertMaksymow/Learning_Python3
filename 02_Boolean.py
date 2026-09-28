@@ -90,8 +90,6 @@ print(statement_one) #False
 statement_two = not (8 * 2) != 20 - 4
 print(statement_two) #True
 
-
-
 credits = 110
 gpa = 1.8
 
