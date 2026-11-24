@@ -1,1 +1,1 @@
-To run Python file run in terminal: python3 <filename>
+To run Python file run in the terminal run command: python3 <filename>
