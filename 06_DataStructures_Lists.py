@@ -95,3 +95,15 @@ print(class_name_hobbies)
 class_name_hobbies[-1][-1] = "Football"
 print(class_name_hobbies)
 
+customer_data = [["Ainsley", "Small", True], ["Ben", "Large", False], ["Chani", "Medium", True], ["Depak", "Medium", False]]
+
+print(customer_data)
+
+customer_data[2][2] = False
+print(customer_data)
+
+customer_data[1].remove(False)
+print(customer_data)
+
+customer_data_final = customer_data + [["Amit", "Large", True], ["Karim", "X-Large", False]]
+print(customer_data_final)
